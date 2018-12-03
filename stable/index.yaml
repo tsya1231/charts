@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  cert-manager:
+  - appVersion: v0.6.0-dev.4
+    created: 2018-12-03T21:37:50.031425636+08:00
+    description: A Helm chart for cert-manager
+    digest: a4d98fe7dd65082527de8d90c3dc0639d55574910f4f2bb76eb9ebd5056f5d0f
+    home: https://github.com/jetstack/cert-manager
+    keywords:
+    - cert-manager
+    - kube-lego
+    - letsencrypt
+    - tls
+    maintainers:
+    - email: james@jetstack.io
+      name: munnerz
+    name: cert-manager
+    sources:
+    - https://github.com/jetstack/cert-manager
+    urls:
+    - http://127.0.0.1:8879/cert-manager/cert-manager-v0.6.0-dev.5.tgz
+    version: v0.6.0-dev.5
+generated: 2018-12-03T21:37:50.030235056+08:00
